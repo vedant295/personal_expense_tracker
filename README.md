@@ -225,14 +225,4 @@ Contributions are welcome! To contribute:
 
 ---
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 📬 Contact
-
-**Your Name** — your.email@example.com
-
-Project Link: [https://github.com/<your-username>/personal-expense-tracker](https://github.com/<your-username>/personal-expense-tracker)
